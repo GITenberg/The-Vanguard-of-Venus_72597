@@ -1,0 +1,27 @@
+_repo: The-Vanguard-of-Venus_72597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bartlett, Landell
+    gutenberg_agent_id: '56739'
+    url: http://www.gutenberg.org/2009/agents/56739
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72597'
+language: en
+pgterms:marc904: https://archive.org/details/BartlettLandellTheVanguardOfVenus1928
+pgterms:marc905: 20231121225847bartlett
+pgterms:marc906: '1944'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark from images generously provided by the
+  Internet Archive.
+publication_note: '  $aNew York :$bExperimenter Publishing Company, $c1944.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Vanguard of Venus
+url: http://www.gutenberg.org/ebooks/72597
