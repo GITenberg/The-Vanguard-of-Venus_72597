@@ -1,11 +1,16 @@
 _repo: The-Vanguard-of-Venus_72597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72597-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartlett, Landell
     gutenberg_agent_id: '56739'
     url: http://www.gutenberg.org/2009/agents/56739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72597#The-Vanguard-of-Venus
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
